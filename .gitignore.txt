@@ -1,4 +1,4 @@
 .spyproject
 tets
 **/Data
-.ipynb_checkpoints
+Naïve_Bayes/.ipynb_checkpoints
